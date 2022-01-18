@@ -1,3 +1,4 @@
-- 👋 Hi, I’m @AEthelheard
-- 🌱 I use Kotlin, Java, Python and Golang.
+- 👋 Hi, I’m @AEthelheard. I use Java, Python and Golang.
+- 🌱 Intern@Expedia, SDE@Oracle
+
 
